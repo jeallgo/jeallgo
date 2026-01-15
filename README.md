@@ -2,21 +2,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeallgo/jeallgo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeallgo/jeallgo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeallgo/jeallgo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img align="right" height="160" src="https://64.media.tumblr.com/cb538bf6b584a15ba1105b13324c639a/tumblr_ppezog8qh51y9x85eo1_400.gifv"  />
-
-###
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeallgo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeallgo&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -74,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jeallgo.jeallgo&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jeallgo.jeallgo&left_text=People%20hanging%20out"  />
 </div>
 
 ###
