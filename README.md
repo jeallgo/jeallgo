@@ -1,3 +1,22 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpreview.redd.it%2Ffind-the-origin-of-this-pixel-art-duck-please-v0-8ou40tpru6i91.gif%3Fformat%3Dpng8%26s%3D1fc8723b5ffb082317453058f4779c45f1f55ca1&f=1&nofb=1&ipt=c3b4f07887016beee8520fe76549454e0777149c68d7bb8a9df6e800b43685c8"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="center">Say hi to Bob or Bob will remember.</h4>
+
+###
+
+
 <h3 align="left">Things i already know</h3>
 
 ###
