@@ -1,73 +1,27 @@
-
-
 <div align="center">
-  <img
-    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpreview.redd.it%2Ffind-the-origin-of-this-pixel-art-duck-please-v0-8ou40tpru6i91.gif%3Fformat%3Dpng8%26s%3D1fc8723b5ffb082317453058f4779c45f1f55ca1&f=1&nofb=1"
-    height="160"
-    style="max-width:100px;"
-    alt="Bob the pixel duck"
-  />
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · jeallgo</sub></p>
+<h1>Jeal</h1>
+<h2>Cybersecurity Enthusiast</h2>
+<p>Building secure code, hardening systems.</p>
+
+<p><a href="https://github.com/jeallgo">GitHub</a></p>
+
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/190658387?u=bc31b6501ad4ceeb924ba83d09fc74479fcdab31&amp;v=4" width="220" alt="Jeal GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<h4 align="center" style="margin-top:10px;">
-  Say hi to Bob — or Bob will remember.
-</h4>
-
-
-<h3 align="left">Things i already know</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-</div>
-
-###
-
-<h3 align="left">Things i'm currently learning</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jeallgo.jeallgo&left_text=People%20hanging%20out"  />
-</div>
-
-###
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%" valign="top"><h3>Core Focus</h3><p>Incident Response & Forensics</p></td>
+<td align="center" width="33%" valign="top"><h3>Public proof</h3><p>3 repositories · 1 stars</p></td>
+<td align="center" width="33%" valign="top"><h3>Momentum</h3><p>14 contributions · 4 active days</p></td>
+</tr>
+</table>
